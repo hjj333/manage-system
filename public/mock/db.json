@@ -1,0 +1,140 @@
+{
+  "profile": [
+    {
+      "date": "2005-11-17 13:24:00",
+      "type": "提现手续费",
+      "descripe": "hh",
+      "income": "10",
+      "expend": "22",
+      "cash": "8",
+      "remark": "2bzgai",
+      "id": 8
+    },
+    {
+      "date": "2005-11-17 13:24:00",
+      "type": "提现手续费",
+      "descripe": "sd",
+      "income": "10",
+      "expend": "2",
+      "cash": "8",
+      "remark": "2bzgai",
+      "id": 9
+    },
+    {
+      "date": "",
+      "type": "提现",
+      "descripe": "121",
+      "income": "2131",
+      "expend": "31",
+      "cash": "121",
+      "remark": "121",
+      "id": 10
+    },
+    {
+      "date": "2019-09-09 18:04:14",
+      "type": "提现手续费",
+      "descripe": "ff",
+      "income": "31",
+      "expend": "12",
+      "cash": "12",
+      "remark": "da",
+      "id": 11
+    },
+    {
+      "date": "2019-09-09 18:05:05",
+      "type": "充值",
+      "descripe": "gf",
+      "income": "4",
+      "expend": "54",
+      "cash": "54",
+      "remark": "tt",
+      "id": 12
+    },
+    {
+      "date": "2019-09-09 18:05:49",
+      "type": "转账",
+      "descripe": "geg",
+      "income": "3423",
+      "expend": "3",
+      "cash": "423",
+      "remark": "df",
+      "id": 13
+    }
+  ],
+  "user": [
+    {
+      "identity": "manager",
+      "password": "123",
+      "name": "123",
+      "email": "123@126.com",
+      "avatar": "这个字段暂时不知道是什么鬼",
+      "id": 1
+    },
+    {
+      "identity": "manager",
+      "password": "2",
+      "name": "2",
+      "email": "2@126.com",
+      "avatar": "这个字段暂时不知道是什么鬼",
+      "id": 2
+    },
+    {
+      "identity": "manager",
+      "password": "123456",
+      "name": "123",
+      "email": "1234@126.com",
+      "avatar": "这个字段源码数据库中有，暂时不知道什么鬼",
+      "id": 3
+    },
+    {
+      "identity": "manager",
+      "password": "123456",
+      "name": "123456",
+      "email": "4762697@qq.com",
+      "avatar": "这个字段源码数据库中有，暂时不知道什么鬼",
+      "id": 4
+    },
+    {
+      "identity": "yuangong",
+      "password": "111",
+      "name": "111",
+      "email": "111@qq.com",
+      "id": 5
+    },
+    {
+      "identity": "yuangong",
+      "password": "111",
+      "name": "111",
+      "email": "11@qq.com",
+      "id": 6
+    },
+    {
+      "identity": "yuangong",
+      "password": "111",
+      "name": "111",
+      "email": "1@qq.com",
+      "id": 7
+    },
+    {
+      "identity": "yuangong",
+      "password": "111",
+      "name": "111",
+      "email": "1111@qq.com",
+      "id": 8
+    },
+    {
+      "identity": "yuangong",
+      "password": "222",
+      "name": "222",
+      "email": "222@qq.com",
+      "id": 9
+    },
+    {
+      "identity": "yuangong",
+      "password": "222",
+      "name": "222",
+      "email": "2222@qq.com",
+      "id": 10
+    }
+  ]
+}
